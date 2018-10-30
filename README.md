@@ -2,7 +2,7 @@
 
 ##### Web Audio API
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
-- https://www.w3.org/TR/webaudio/
+
 
 ##### Web Authentication API
 
@@ -36,6 +36,7 @@
 ##### Web Background API 
 
 - https://developers.google.com/web/updates/2015/12/background-sync 
+- https://www.toptal.com/designers/subtlepatterns/
 
 ##### Web Push Notification API
 
@@ -74,6 +75,7 @@
 
 ##### Web Music API
 - https://developer.spotify.com/
+
 
 #### Ingin Menambahkan ?
 Silahkan di fork dan Kirim Pull-Request 
